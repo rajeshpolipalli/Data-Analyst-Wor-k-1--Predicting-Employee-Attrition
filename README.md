@@ -62,13 +62,13 @@ Top predictors of attrition:
 
   ### 📂 Data Sources  
 
-- **Actual dataset** → [`HR Employee Attrition.csv`](https://github.com/rajeshpolipalli/Predicting-Employee-Attrition/blob/main/HR%20Employee%20Attrition.csv)
+- **Actual dataset** → [`HR Employee Attrition.csv`](https://github.com/rajeshpolipalli/Data-Analyst-Wor-k-1--Predicting-Employee-Attrition/blob/main/Predicting-Employee-Attrition-main/HR%20Employee%20Attrition.csv)
   
-- **Transformed dataset** → [`cleaned_hr_data.csv`](https://github.com/rajeshpolipalli/Predicting-Employee-Attrition/blob/main/cleaned_hr_data.csv)  
+- **Transformed dataset** → [`cleaned_hr_data.csv`](https://github.com/rajeshpolipalli/Data-Analyst-Wor-k-1--Predicting-Employee-Attrition/blob/main/Predicting-Employee-Attrition-main/cleaned_hr_data.csv)  
   - Encoded + scaled features  
   - Used for machine learning modeling  
 
-- **Original dataset** → [`hr_data_cleaned_original.csv`](https://github.com/Progati00/Predicting-Employee-Attrition/blob/main/hr_data_cleaned_original.xlsx)  
+- **Original dataset** → [`hr_data_cleaned_original.csv`](https://github.com/rajeshpolipalli/Data-Analyst-Wor-k-1--Predicting-Employee-Attrition/blob/main/Predicting-Employee-Attrition-main/hr_data_cleaned_original.xlsx)  
   - Retained categorical + numerical values  
   - Used for **Power BI dashboards** and business-friendly reporting  
 
